@@ -1,0 +1,30 @@
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+E:\Datos\Desktop\Discografica - Completo\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+E:\Datos\Desktop\Discografica - Completo\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+E:\Datos\Desktop\Discografica - Completo\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+E:\Datos\Desktop\Discografica - Completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+E:\Datos\Desktop\Discografica - Completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Datos\Desktop\Discografica - Completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+E:\Datos\Desktop\Discografica - Completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+E:\Datos\Desktop\Discografica - Completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+E:\Datos\Desktop\Discografica - Completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+E:\Datos\Desktop\Discografica - Completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

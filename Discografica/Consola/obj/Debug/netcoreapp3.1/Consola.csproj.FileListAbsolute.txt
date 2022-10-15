@@ -1,0 +1,51 @@
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+F:\Docente\Semestre Agosto 2022\Semana 5\Material Generado en Practico\Discografica\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+F:\Docente\Semestre Agosto 2022\Semana 6\Material Generado en Practico\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+E:\Datos\Desktop\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+E:\Datos\Desktop\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+E:\Datos\Desktop\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+E:\Datos\Desktop\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+E:\Datos\Desktop\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+E:\Datos\Desktop\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+E:\Datos\Desktop\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+E:\Datos\Desktop\Discografica - Completo\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+E:\Datos\Desktop\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+E:\Datos\Desktop\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+E:\Datos\Desktop\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+E:\Datos\Desktop\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+E:\Datos\Desktop\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+E:\Datos\Desktop\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+E:\Datos\Desktop\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+E:\Datos\Desktop\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+E:\Datos\Desktop\Discografica - Completo\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
